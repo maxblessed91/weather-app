@@ -2,11 +2,11 @@
 
 You can watch my project at https://maxblessed91-weather-app.netlify.app/
 
-## Project
+## Project info
 
 My project contains:
 
-Welcome page
-Current date & time page
-Wikipedia search w/ Location tracker page
-Weather page
+* Welcome page
+* Current date & time page
+* Wikipedia search w/ Location tracker page
+* Weather page
