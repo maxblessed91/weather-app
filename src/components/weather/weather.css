@@ -47,10 +47,11 @@
     padding: .5rem;
     font-size: 1em;
     background: white;
-    border-radius: 5px;
+    border-radius: 10px;
     color: darkcyan;
     cursor: pointer;
     margin: 5px auto;
+    border: 1px solid;
 }
 
 .button:hover {
